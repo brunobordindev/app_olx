@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.OLXApp" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/roxo_primary</item>
+        <item name="colorPrimaryDark">@color/roxo_dark</item>
+        <item name="colorAccent">@color/color_accent</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="botaoPadrao" parent="Theme.AppCompat.Light">
+
+        //quando clica no botao
+        <item name="colorControlHighlight">@color/violeta</item>
+        //quando o botao esta normal
+        <item name="colorButtonNormal">@color/roxo_primary</item>
+        <item name="android:textColor"> @color/white</item>
+    </style>
+</resources>
