@@ -92,8 +92,7 @@ RecyclerItemClickListener
 
 Anuncio 
 
-<img src="https://user-images.githubusercontent.com/72177982/212761395-4ef8215d-a59c-4d0e-98a1-316d8709a03c.png">
-<img width="1792" alt="Anunci" width="95%">
+<img src="https://user-images.githubusercontent.com/72177982/212761395-4ef8215d-a59c-4d0e-98a1-316d8709a03c.png" width="95%">
 <img src="https://user-images.githubusercontent.com/72177982/212761418-d942a867-fb13-4ede-9884-b3bba9f42b5d.png" width="95%">
 <img src="https://user-images.githubusercontent.com/72177982/212761428-6aedcb23-baec-47f8-a4e2-3b8c86008cba.png" width="95%">
 
